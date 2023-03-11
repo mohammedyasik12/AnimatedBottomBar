@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimatedBottomBar</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_wishlist">Wishlist</string>
+    <string name="tab_cart">Cart</string>
+    <string name="tab_profile">Profile</string>
+
+</resources>
